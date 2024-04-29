@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **node js and rust**
 
-- 👨‍💻 All of my projects are available at [faturrahmanalharitszoe.vercel.app](faturrahmanalharitszoe.vercel.app)
+- 👨‍💻 All of my projects are available at [here](https://faturrahmanalharitszoe.vercel.app)
 
 - 📫 How to reach me **faturrahmanalharitszoe@gmail.com**
 
