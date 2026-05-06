@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./banner.png" alt="Faturrahman Header" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="./banner.png" alt="Faturrahman Header" width="100%" />
+
+  <br/>
 
   <h1>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -8,13 +10,11 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Enthusiast;Node.js+%26+Rust+Learner;Passionate+Problem+Solver" alt="Typing SVG" />
 
-  <br/>
-
   <p align="center">
     <a href="https://twitter.com/om3galulz" target="blank">
       <img src="https://img.shields.io/twitter/follow/om3galulz?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white" alt="om3galulz" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=faturrahmanalharitzoe&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="faturrahmanalharitzoe" />
+    <img src="https://komarev.com/ghpvc/?username=faturrahmanalharitszoe&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="faturrahmanalharitszoe" />
   </p>
 </div>
 
@@ -34,10 +34,10 @@ I am a passionate **Frontend Developer** from Indonesia 🇮🇩 with a deep int
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faturrahmanalharitzoe&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faturrahmanalharitzoe&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faturrahmanalharitszoe&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faturrahmanalharitszoe&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faturrahmanalharitzoe&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faturrahmanalharitszoe&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" alt="GitHub Streak" />
 </div>
 
 ---
