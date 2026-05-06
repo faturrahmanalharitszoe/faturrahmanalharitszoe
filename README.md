@@ -30,7 +30,7 @@ I am a passionate **Frontend Developer** from Indonesia 🇮🇩 with a deep int
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faturrahmanalharitszoe&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faturrahmanalharitszoe&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faturrahmanalharitszoe&theme=tokyonight" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faturrahmanalharitszoe&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" alt="GitHub Streak" />
