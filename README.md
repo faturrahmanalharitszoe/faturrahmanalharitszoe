@@ -1,11 +1,14 @@
 <div align="center">
-  <img src="./banner.png" alt="Banner" width="100%" />
-  
-  <br/>
+  <img src="./banner.png" alt="Faturrahman Header" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 
-  <h1>Hi 👋, I'm Faturrahman Alharitszoe</h1>
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Faturrahman Alharitszoe
+  </h1>
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Enthusiast;Node.js+%26+Rust+Learner;Passionate+Problem+Solver" alt="Typing SVG" />
+
+  <br/>
 
   <p align="center">
     <a href="https://twitter.com/om3galulz" target="blank">
